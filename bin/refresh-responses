@@ -1,0 +1,3 @@
+#!/bin/bash
+
+node ./lib/sources/__tests__/__mocks__/updateResponses.js
